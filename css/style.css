@@ -23,5 +23,9 @@ figcaption {
 }
 
 #logo {
-  background-color: #aqua;
+  background-color: aqua;
+}
+
+#logo h1 {
+  font-family: 'Clicker Script', cursive;
 }
